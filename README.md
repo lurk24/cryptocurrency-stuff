@@ -31,18 +31,18 @@ tips, tricks, and hints about cryptocurrencies
 
 
 
-[bittrex]: https://bittrex.com/Account/Register?referralCode=BMT-ULK-LJW "BITTREX"
-[binance]: https://www.binance.com?ref=54404070  "Binance"
-[binanceUS]: https://accounts.binance.us/en/register?ref=54404070  "Binance US"
+[bittrex]: https://bittrex.com/Account/Register?referralCode=BMT-ULK-LJW "use my ref code at BITTREX"
+[binance]: https://www.binance.com?ref=54404070  "use my ref code at Binance"
+[binanceUS]: https://accounts.binance.us/en/register?ref=54404070  "use my ref code at Binance US"
 [blokfolio]: https://blockfolio.com/
-[changenow]: https://changenow.io/?link_id=f0812e7c0bf978 "quickly change coins between coins"
+[changenow]: https://changenow.io/?link_id=af8a9ccdc31f0f "quickly change coins between coins"
 [coinbase]: https://coinbase.com/
 [coinbasePro]: https://pro.coinbase.com/  
 [coingecko]: https://www.coingecko.com/en
 [cointracker]: https://www.cointracker.io/i/OQlRMO7Zr5nz "Use my Cointracker link for $10 credit"
 [cro]: https://crypto.com/app/gzhygqxcgm "Use my referral link https://crypto.com/app/gzhygqxcgm to sign up for Crypto.com and we both get $25 USD :)"
 [kraken]: https://www.kraken.com/ "Kraken"
-[kucoin]: https://www.kucoin.com/ucenter/signup?rcode=rJ4XFLL "use my buddy Sm0keD7's ref code at kucoin"
-[tradingview]: https://www.tradingview.com/gopro/?share_your_love=LURK24tv
-[uphold]: https://uphold.com/ "Uphold"
-[yobit]: https://yobit.net/?bonus=kwaeJ "YoBit"
+[kucoin]: https://www.kucoin.com/ucenter/signup?rcode=rJZ64JC "use my ref code at kucoin"
+[tradingview]: https://www.tradingview.com/gopro/?share_your_love=LURK24tv "use my ref code at tradingview"
+[uphold]: https://uphold.com/signup?referral=d9d073f050 "use my ref code at Uphold"
+[yobit]: https://yobit.net/?bonus=kwaeJ "use my ref code at YoBit"
